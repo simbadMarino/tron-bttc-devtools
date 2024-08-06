@@ -1,3 +1,5 @@
-# tron-converter.com
+# tron-btt-tools
 
-Nice UI utilities!
+A collection of TRON and BitTorrent Chain dev tools.
+
+PR's are open!
